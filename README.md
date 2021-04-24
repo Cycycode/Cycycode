@@ -3,13 +3,11 @@
 ![presentation](https://i.goopics.net/leXg4.png)
 
 
-
 ### Pour me contacter
 📑 [Linkedin](https://www.linkedin.com/in/cyrielleistin/)</br>
 :dove: [Twitter](https://twitter.com/cycycode)</br>
 ✉️ cycycode@gmail.com</br>
 📞 06 66 73 86 01
-
 
 
 ## Qui je suis  🧙‍♀️
@@ -33,13 +31,13 @@ Souhaitant continuer à monter en compétences dans le développement web, je su
 #### Pourquoi ne pas découvrir 🕵️‍♀️
 
 * Styled-components
-* Node.js
 * Next.js
 * Vue.js
+* Node.js
 
 ### Côté softs-skills ☀️
 
-Créativité, Persévérence, Autonomie, Flexibilité, Fiabilité, Enthousiasme, Résilience.
+Créativité, Persévérance, Autonomie, Flexibilité, Fiabilité, Enthousiasme, Résilience.
 
 ### Mantra
 
