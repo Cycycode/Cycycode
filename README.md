@@ -1,8 +1,5 @@
 # Hello 👋
 
-![presentation](https://i.goopics.net/leXg4.png)
-
-
 ### Pour me contacter
 📑 [Linkedin](https://www.linkedin.com/in/cyrielleistin/)</br>
 :dove: [Twitter](https://twitter.com/cycycode)</br>
